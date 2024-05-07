@@ -1,0 +1,3 @@
+line added, test branch
+a new line to create conflict.
+added line in conflict brach
