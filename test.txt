@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Added stuff in main branch
+=======
+line added, test branch
+a new line to create conflict.
+added line 
+>>>>>>> conflict
